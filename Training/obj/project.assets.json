@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MagnusMinds\\Desktop\\Training\\Training\\Training.csproj",
+      "projectUniqueName": "C:\\Users\\MagnusMinds\\Desktop\\Training1\\Training\\Training\\Training.csproj",
       "projectName": "Training",
-      "projectPath": "C:\\Users\\MagnusMinds\\Desktop\\Training\\Training\\Training.csproj",
+      "projectPath": "C:\\Users\\MagnusMinds\\Desktop\\Training1\\Training\\Training\\Training.csproj",
       "packagesPath": "C:\\Users\\MagnusMinds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MagnusMinds\\Desktop\\Training\\Training\\obj\\",
+      "outputPath": "C:\\Users\\MagnusMinds\\Desktop\\Training1\\Training\\Training\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MagnusMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
